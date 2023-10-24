@@ -17,6 +17,9 @@ Kullanıcı Deneyiminin İyileştirilmesi: Topladığımız bilgileri, uygulaman
 
 Analiz: Kullanıcı davranışlarını analiz ederek uygulamanın performansını ve kullanıcı memnuniyetini artırmayı hedefleyebiliriz.
 
+Doğrulama Kodu Kullanımı ve Güvenliği CookGPT uygulaması, kullanıcıların giriş yapabilmeleri veya hesaplarını doğrulamaları için doğrulama kodlarını kullanır. Bu doğrulama kodları, kullanıcıların kimliklerini doğrulamak ve güvenli bir şekilde giriş yapmalarını sağlamak amacıyla kullanılır. Doğrulama kodları, uygulama içerisinde hassas bilgiler olarak kabul edilir ve güvenli bir şekilde saklanır. Bu kodlar, yalnızca giriş veya doğrulama işlemleri için kullanılır ve başka bir amaçla paylaşılmaz veya saklanmaz. Veri Paylaşımı ve Üçüncü Taraf Hizmet Sağlayıcıları CookGPT, kişisel bilgileri üçüncü taraflarla paylaşmaz, satmaz veya kiralamaz. Ancak, bazı durumlarda işbirliği yaptığımız üçüncü taraf hizmet sağlayıcılarına doğrulama kodları dahil olmak üzere veri iletebiliriz. Bu durumda, verilerin güvenliği ve gizliliği için gerekli tüm önlemleri alırız. Kullanıcı Hakları ve Doğrulama Kodları Kullanıcılar olarak, doğrulama kodlarını da dahil olmak üzere kişisel verilerinizin nasıl kullanıldığını öğrenme, düzeltme veya silme gibi haklara sahipsiniz. Doğrulama kodlarına özel olarak erişim talebiniz olması durumunda, bu taleplerinizi iletişim adresi üzerinden bize iletebilirsiniz. CookGPT uygulaması, kullanıcı verilerinin güvenliğine ve gizliliğine büyük önem verir ve doğrulama kodları dahil olmak üzere tüm verileri güvenli bir şekilde işler. Güvenlik ve Şifreleme Doğrulama kodlarının güvenliği, veri şifreleme yöntemleri kullanılarak sağlanır. Bu şifreleme yöntemleri, kodların yetkisiz erişimlere karşı korunmasına yardımcı olur. CookGPT uygulaması, kullanıcı gizliliğini ve güvenliğini korumak için en iyi uygulamaları takip eder ve verilerinizi güvende tutmak için sürekli çaba gösterir.
+
+
 Veri Paylaşımı
 
 Kişisel bilgileri üçüncü taraflarla paylaşmayız, satmayız veya kiralamayız. Ancak, bazı durumlarda işbirliği yaptığımız üçüncü taraf hizmet sağlayıcılarına veri iletebiliriz. Bu durumda, verilerin güvenliği ve gizliliği için gerekli önlemleri alacağımızı taahhüt ederiz.
@@ -38,3 +41,5 @@ Bu gizlilik politikası zaman zaman güncellenebilir. Herhangi bir güncelleme d
 Eğer bu gizlilik politikası hakkında sorularınız veya endişeleriniz varsa, lütfen ygtsmt@outlook.com üzerinden bizimle iletişime geçiniz.
 
 Bu özelleştirilmiş gizlilik politikası, CookGPT adlı mobil uygulamanız için kullanılabilir. E-posta adresinizi ve diğer iletişim bilgilerinizi eklemeyi unutmayın. Ayrıca, gerektiğinde yerel ve ulusal gizlilik yasalarına uymak için gereken değişiklikleri yapmayı unutmayın.
+
+
